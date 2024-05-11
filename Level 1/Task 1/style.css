@@ -1,0 +1,113 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.navbar nav li {
+  padding: 0 10px;
+}
+
+#home {
+  background-size: contain;
+  text-align: center;
+  padding: 100px;
+  color: #000000;
+  background-image: url(bg.jpg);
+  height: 89.5vh;
+}
+
+#home h1 {
+  font-size: 35px;
+  opacity: 71%;
+  margin-bottom: 28px;
+}
+
+#home p {
+  font-size: 18px;
+  margin-bottom: 40px;
+  opacity: 85%;
+}
+
+.btn {
+  margin-top: 3px;
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+strong {
+  font-size: 80px;
+  font-weight: 500;
+  letter-spacing: -1px;
+}
+
+#about {
+  background-color: p-3 mb-2 bg-primary-subtle text-primary-emphasis;
+}
+
+.featurette-divider {
+  color: white;
+}
+
+h1 {
+  font-size: xxx-large;
+  text-align: center;
+  color: white;
+}
+
+
+
+#about {
+  margin-top: 0px;
+  color: white;
+}
+
+#about strong {
+  font-weight: 500;
+  font-size: x-large;
+}
+
+.featurette-heading {
+  text-align: center;
+  font-weight: 900;
+}
+
+#about img {
+  height: 224px;
+  width: 400px;
+  float: right;
+}
+
+#contact-heading {
+  color: #fbfcff;
+}
+
+.start-button:hover {
+  color: white;
+}
+
+.btn {
+  border-radius: 30px;
+}
+
+
+form input,
+form textarea {
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 100%;
+}
+
+footer p {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
