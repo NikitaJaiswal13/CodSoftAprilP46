@@ -1,0 +1,28 @@
+#home{
+    height: 534px;
+}
+
+.heading{
+    font-size: 1.7rem;
+}
+
+.headings{
+    font-size: 1.7rem;
+}
+
+#pic img{
+    width: 300px;
+    height: 475px;
+}
+
+#intro h2{
+    font-size: 1.5rem;
+}
+
+.input{
+    width: 80%;
+}
+
+#msg{
+    width: 70%;
+}
